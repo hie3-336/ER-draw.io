@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T09:32:17.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PIrbFBY6wo5iw014k1F6" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T09:33:27.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YFm5PI60j1dk7ATAX-15" version="24.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1861" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2044" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,12 +687,12 @@
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-184" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-189" target="EyYZbLArwLH3U74_FKR4-208">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="810" y="1550" as="sourcePoint" />
-            <mxPoint x="810" y="1270" as="targetPoint" />
+            <mxPoint x="810" y="1650" as="sourcePoint" />
+            <mxPoint x="810" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-185" value="会員" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1800" width="250" height="180" as="geometry" />
+          <mxGeometry x="510" y="1900" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-186" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-185">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -760,7 +760,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-198" value="予約シート" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1400" width="250" height="300" as="geometry" />
+          <mxGeometry x="510" y="1500" width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-199" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-198">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -880,7 +880,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-217" value="スタイリスト担当" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1740" width="250" height="150" as="geometry" />
+          <mxGeometry x="180" y="1840" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-218" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-217">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -935,7 +935,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-224" value="メニュー" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1390" width="250" height="120" as="geometry" />
+          <mxGeometry x="-230" y="1490" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-225" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-224">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -977,7 +977,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-234" value="予約内容" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1430" width="250" height="60" as="geometry" />
+          <mxGeometry x="180" y="1530" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-235" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-234">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -994,21 +994,21 @@
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-238" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-205" target="EyYZbLArwLH3U74_FKR4-235">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="260" y="1570" as="sourcePoint" />
-            <mxPoint x="320" y="1550" as="targetPoint" />
+            <mxPoint x="260" y="1670" as="sourcePoint" />
+            <mxPoint x="320" y="1650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="1585" />
+              <mxPoint x="320" y="1685" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-239" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-218" target="EyYZbLArwLH3U74_FKR4-211">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="520" y="1650" as="sourcePoint" />
-            <mxPoint x="440" y="1730" as="targetPoint" />
+            <mxPoint x="520" y="1750" as="sourcePoint" />
+            <mxPoint x="440" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-240" value="料金計算" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1590" width="250" height="90" as="geometry" />
+          <mxGeometry x="-230" y="1690" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-241" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-240">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -1038,30 +1038,30 @@
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-247" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-225" target="EyYZbLArwLH3U74_FKR4-234">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="140" y="1680" as="sourcePoint" />
-            <mxPoint x="210" y="1510" as="targetPoint" />
+            <mxPoint x="140" y="1780" as="sourcePoint" />
+            <mxPoint x="210" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-248" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-256" target="EyYZbLArwLH3U74_FKR4-241">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="100" y="1776" as="sourcePoint" />
-            <mxPoint x="20" y="1635" as="targetPoint" />
+            <mxPoint x="100" y="1876" as="sourcePoint" />
+            <mxPoint x="20" y="1735" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-60" y="1856" />
+              <mxPoint x="-60" y="1956" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-249" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-228" target="EyYZbLArwLH3U74_FKR4-240">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="310" y="1596" as="sourcePoint" />
-            <mxPoint x="260" y="1560" as="targetPoint" />
+            <mxPoint x="310" y="1696" as="sourcePoint" />
+            <mxPoint x="260" y="1660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="1676" />
+              <mxPoint x="150" y="1776" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-256" value="ランク表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1770" width="250" height="90" as="geometry" />
+          <mxGeometry x="-230" y="1870" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-257" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="EyYZbLArwLH3U74_FKR4-256">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -1091,12 +1091,15 @@
         </mxCell>
         <mxCell id="EyYZbLArwLH3U74_FKR4-276" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERzeroToOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EyYZbLArwLH3U74_FKR4-257" target="EyYZbLArwLH3U74_FKR4-250">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="100" y="1730" as="sourcePoint" />
-            <mxPoint x="200" y="1630" as="targetPoint" />
+            <mxPoint x="100" y="1830" as="sourcePoint" />
+            <mxPoint x="200" y="1730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="1780" />
+              <mxPoint x="130" y="1880" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EyYZbLArwLH3U74_FKR4-277" value="3.論理設計の完成" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1370" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
